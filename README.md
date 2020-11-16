@@ -40,9 +40,14 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 My name is Jacob Grooms, and this is my homepage! I am current App Academy student, gaining knowledge in:
 
-1. JavaScript
-2. HTML
-3. CSS
-4. Mocha / Chai
+- JavaScript
+- HTML
+- CSS
+- Mocha / Chai
+- Express
+- PostgreSQL
+- React
+- Redux
+- Python
 
-With many more to come. Check out my pinned projects to see a slice of what I've learned!
+With more to come. Check out my pinned projects to see a slice of what I've learned!
