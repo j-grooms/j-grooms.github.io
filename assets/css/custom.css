@@ -1,0 +1,11 @@
+.technologies {
+	display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.technologies > div {
+    width: 200px;
+}
