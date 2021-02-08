@@ -1,11 +1,39 @@
-.technologies {
-	display: flex;
+.link-div {
+    width: 300px;
+    display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    width: 1000px;
-    margin: 0 auto;
+    justify-content: space-between;
+    font-size: 10pt;
+    margin: 0;
 }
 
-.technologies > div {
-    width: 200px;
+.links-div > a {
+    width: 100px;
+}
+
+.about {
+    padding: 30px;
+}
+
+.icon {
+    width: 300px;
+    height: 100%;
+}
+
+.technologies {
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 20px;
+}
+
+/* .gtr-0 > div {
+    margin: 5px;
+} */
+
+footer {
+    text-align: center;
+}
+
+.tools {
+    margin-top: 200px;
+    margin-bottom: 50px;
 }
