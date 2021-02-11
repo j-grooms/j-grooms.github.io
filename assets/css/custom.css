@@ -37,3 +37,18 @@ footer {
     margin-top: 200px;
     margin-bottom: 50px;
 }
+
+.resume-link {
+    font-size: 10pt;
+}
+
+.picture-container {
+    height: 100%;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.icon {
+    width: 200px;
+    height: 100%;
+}
